@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Form-to-PDF-with-React-pdf-lib/static/css/main.6e71bdd0.css",
+    "main.js": "/Dynamic-Form-to-PDF-with-React-pdf-lib/static/js/main.02a2e116.js",
+    "index.html": "/Dynamic-Form-to-PDF-with-React-pdf-lib/index.html",
+    "main.6e71bdd0.css.map": "/Dynamic-Form-to-PDF-with-React-pdf-lib/static/css/main.6e71bdd0.css.map",
+    "main.02a2e116.js.map": "/Dynamic-Form-to-PDF-with-React-pdf-lib/static/js/main.02a2e116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e71bdd0.css",
+    "static/js/main.02a2e116.js"
+  ]
+}
